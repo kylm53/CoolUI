@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="LikeView">
+        <attr name="likeCount" format="integer" />
+        <attr name="color" format="color" />
+    </declare-styleable>
+</resources>
